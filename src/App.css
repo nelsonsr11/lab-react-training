@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.id{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.driver-card{
+  background-color: blue;
+  border-radius: 1ch;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.driver-card img{
+  border-radius: 5ch;
+}
